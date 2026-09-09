@@ -6,14 +6,7 @@
     <atom:link href="https://theconditionsreport.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>The best of skiing, snowboarding and the mountains, twice a week. Real stories from real creators, credited and linked.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2026 00:00:00 -0000</lastBuildDate>
-    <item>
-      <title>TCR | September 09, 2026 — Valle Nevado Adds Sunset Snowcat Dinners, a 65-Foot Crevasse Rescue, and Red Bull Sends It Through Stuttgart</title>
-      <link>https://theconditionsreport.github.io/2026/09/09/</link>
-      <guid isPermaLink="true">https://theconditionsreport.github.io/2026/09/09/</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 -0000</pubDate>
-      <description>Snowcat sunset dinners at 533cm, a glacier crevasse phone call, and Colorado locks in opening days</description>
-    </item>
+    <lastBuildDate>Tue, 08 Sep 2026 00:00:00 -0000</lastBuildDate>
     <item>
       <title>TCR | September 08, 2026 — Jérémie Paquette Throws a Triple Front at Whistler, Fire Guts a Chilean Resort Hotel, and the ESA Weighs In on El Niño</title>
       <link>https://theconditionsreport.github.io/2026/09/08/</link>
@@ -216,6 +209,13 @@
       <guid isPermaLink="true">https://theconditionsreport.github.io/2026/04/23/</guid>
       <pubDate>Thu, 23 Apr 2026 00:00:00 -0000</pubDate>
       <description>Almost four feet of spring snow in the Sierra, a Vermont resort farming snow, and Jackson's best pond skim</description>
+    </item>
+    <item>
+      <title>TCR | April 22, 2026 — 399 Million and Counting</title>
+      <link>https://theconditionsreport.github.io/2026/04/22/</link>
+      <guid isPermaLink="true">https://theconditionsreport.github.io/2026/04/22/</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 -0000</pubDate>
+      <description>The ski industry just posted its biggest season ever. Also: Jackson's about to get a foot.</description>
     </item>
   </channel>
 </rss>
