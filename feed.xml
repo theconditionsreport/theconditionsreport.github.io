@@ -6,7 +6,14 @@
     <atom:link href="https://theconditionsreport.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>The best of skiing, snowboarding and the mountains, twice a week. Real stories from real creators, credited and linked.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 00:00:00 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:00:00 -0000</lastBuildDate>
+    <item>
+      <title>TCR | September 15, 2026 — TGR Premiere in Five Days, X Games Unveils a Winter League, and Valle Nevado Still Holds 546cm</title>
+      <link>https://theconditionsreport.github.io/2026/09/15/</link>
+      <guid isPermaLink="true">https://theconditionsreport.github.io/2026/09/15/</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 -0000</pubDate>
+      <description>Teal Harle says it should be no problem. Five days until we find out.</description>
+    </item>
     <item>
       <title>TCR | September 11, 2026 — Kilian Bron Rides a 19,685-Foot Andean Summit, Matchstick Drops the Trailer, and NOAA Says 75% Chance of Historic El Niño</title>
       <link>https://theconditionsreport.github.io/2026/09/11/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="true">https://theconditionsreport.github.io/2026/04/24/</guid>
       <pubDate>Fri, 24 Apr 2026 00:00:00 -0000</pubDate>
       <description>A Denver bar inside a ski factory, Utah's late-season storm, and Castlerock demands respect.</description>
-    </item>
-    <item>
-      <title>TCR | April 23, 2026 — Mammoth Just Got Four Feet and Nobody's Leaving</title>
-      <link>https://theconditionsreport.github.io/2026/04/23/</link>
-      <guid isPermaLink="true">https://theconditionsreport.github.io/2026/04/23/</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 -0000</pubDate>
-      <description>Almost four feet of spring snow in the Sierra, a Vermont resort farming snow, and Jackson's best pond skim</description>
     </item>
   </channel>
 </rss>
