@@ -6,7 +6,14 @@
     <atom:link href="https://theconditionsreport.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>The best of skiing, snowboarding and the mountains, twice a week. Real stories from real creators, credited and linked.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2026 00:00:00 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 00:00:00 -0000</lastBuildDate>
+    <item>
+      <title>TCR | September 18, 2026 — TGR Premieres Tomorrow, Snow League Drops in Cardrona, and 50cm Headed for the Andes</title>
+      <link>https://theconditionsreport.github.io/2026/09/18/</link>
+      <guid isPermaLink="true">https://theconditionsreport.github.io/2026/09/18/</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 -0000</pubDate>
+      <description>One day out from Jackson Hole. The Snow League goes live in NZ. South America keeps stacking.</description>
+    </item>
     <item>
       <title>TCR | September 15, 2026 — TGR Premiere in Five Days, X Games Unveils a Winter League, and Valle Nevado Still Holds 546cm</title>
       <link>https://theconditionsreport.github.io/2026/09/15/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="true">https://theconditionsreport.github.io/2026/04/25/</guid>
       <pubDate>Sat, 25 Apr 2026 00:00:00 -0000</pubDate>
       <description>New Zealand opens early, Palisades pushes into May, and Whistler gathers for Kai.</description>
-    </item>
-    <item>
-      <title>TCR | April 24, 2026 — Drink Where They Build the Skis</title>
-      <link>https://theconditionsreport.github.io/2026/04/24/</link>
-      <guid isPermaLink="true">https://theconditionsreport.github.io/2026/04/24/</guid>
-      <pubDate>Fri, 24 Apr 2026 00:00:00 -0000</pubDate>
-      <description>A Denver bar inside a ski factory, Utah's late-season storm, and Castlerock demands respect.</description>
     </item>
   </channel>
 </rss>
