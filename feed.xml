@@ -6,7 +6,14 @@
     <atom:link href="https://theconditionsreport.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>The best of skiing, snowboarding and the mountains, twice a week. Real stories from real creators, credited and linked.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 00:00:00 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 00:00:00 -0000</lastBuildDate>
+    <item>
+      <title>TCR | September 25, 2026 — MSP Premieres Tonight, Levi Opens on Stockpiled Snow, and Nick McNutt Does Nick McNutt Things</title>
+      <link>https://theconditionsreport.github.io/2026/09/25/</link>
+      <guid isPermaLink="true">https://theconditionsreport.github.io/2026/09/25/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 -0000</pubDate>
+      <description>Matchstick's The Way Out drops tonight. Levi preps for October on last winter's snow.</description>
+    </item>
     <item>
       <title>TCR | September 22, 2026 — TGR Hits the Road, Portillo Crosses 1,000cm, and a 10-Year-Old Gets the Carnegie Medal</title>
       <link>https://theconditionsreport.github.io/2026/09/22/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="true">https://theconditionsreport.github.io/2026/04/27/</guid>
       <pubDate>Mon, 27 Apr 2026 00:00:00 -0000</pubDate>
       <description>The Saudan Couloir Race is pure chaos, ski tips are now tax-free, and Scandinavia keeps stacking</description>
-    </item>
-    <item>
-      <title>TCR | April 26, 2026 — The Ones Still Open Are the Ones Worth Knowing</title>
-      <link>https://theconditionsreport.github.io/2026/04/26/</link>
-      <guid isPermaLink="true">https://theconditionsreport.github.io/2026/04/26/</guid>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 -0000</pubDate>
-      <description>Breckenridge and Brian Head come back from the dead, plus Tuckerman's gnarliest archive footage</description>
     </item>
   </channel>
 </rss>
