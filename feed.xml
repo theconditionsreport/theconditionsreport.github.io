@@ -6,7 +6,14 @@
     <atom:link href="https://theconditionsreport.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>The best of skiing, snowboarding and the mountains, twice a week. Real stories from real creators, credited and linked.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 00:00:00 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 00:00:00 -0000</lastBuildDate>
+    <item>
+      <title>TCR | October 02, 2026 — Levi Opens Today, Aspen Unwraps Free October Laps, and Brand Battle Voting Is Live</title>
+      <link>https://theconditionsreport.github.io/2026/10/02/</link>
+      <guid isPermaLink="true">https://theconditionsreport.github.io/2026/10/02/</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 -0000</pubDate>
+      <description>Finnish Lapland opens on stockpiled snow, Aspen digs out the tarps, and 4FRNT goes all in for Brand Battle</description>
+    </item>
     <item>
       <title>TCR | September 29, 2026 — Level 1 Drops Thursday, Highland Bowl Gets Boot-Packed, and Newschoolers Brand Battle Goes Full Send</title>
       <link>https://theconditionsreport.github.io/2026/09/29/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="true">https://theconditionsreport.github.io/2026/04/29/</guid>
       <pubDate>Wed, 29 Apr 2026 00:00:00 -0000</pubDate>
       <description>A new FKT on the roof of Europe, A-Basin's East Wall, and spring park heaven in Austria</description>
-    </item>
-    <item>
-      <title>TCR | April 28, 2026 — 60% of America Is Dry and 15 Resorts Don't Care</title>
-      <link>https://theconditionsreport.github.io/2026/04/28/</link>
-      <guid isPermaLink="true">https://theconditionsreport.github.io/2026/04/28/</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 -0000</pubDate>
-      <description>Drought maps, the last resorts standing, and the FWT's Alaska return film</description>
     </item>
   </channel>
 </rss>
