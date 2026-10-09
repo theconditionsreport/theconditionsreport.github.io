@@ -6,7 +6,14 @@
     <atom:link href="https://theconditionsreport.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>The best of skiing, snowboarding and the mountains, twice a week. Real stories from real creators, credited and linked.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 00:00:00 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 00:00:00 -0000</lastBuildDate>
+    <item>
+      <title>TCR | October 09, 2026 — Valle Nevado Plans to Overlap With Colorado Openings, Snow Hits the Alps, and Salomon's Two-Year Snowboard Project Drops</title>
+      <link>https://theconditionsreport.github.io/2026/10/09/</link>
+      <guid isPermaLink="true">https://theconditionsreport.github.io/2026/10/09/</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 -0000</pubDate>
+      <description>Valle Nevado open through November 8 — overlapping with Colorado. Alps going white overnight. Salomon's Shiver Creek: two years, a global roster, premiere tour dates live.</description>
+    </item>
     <item>
       <title>TCR | October 06, 2026 — The Strava Outlaws Blitz the Middle Teton, Faction Drops Its Trailer, and Finland Has Two Resorts Running</title>
       <link>https://theconditionsreport.github.io/2026/10/06/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="true">https://theconditionsreport.github.io/2026/05/01/</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 -0000</pubDate>
       <description>Jesper Tjäder goes live in Åre, A-Basin closes on a high note, and Killington's rowdiest event just sold out.</description>
-    </item>
-    <item>
-      <title>TCR | April 30, 2026 — Dollar Days and Superyacht Ski Trips</title>
-      <link>https://theconditionsreport.github.io/2026/04/30/</link>
-      <guid isPermaLink="true">https://theconditionsreport.github.io/2026/04/30/</guid>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 -0000</pubDate>
-      <description>Brian Head is selling lift tickets for a buck. Meanwhile, someone is skiing Antarctica off a yacht.</description>
     </item>
   </channel>
 </rss>
