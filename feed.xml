@@ -6,7 +6,14 @@
     <atom:link href="https://theconditionsreport.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>The best of skiing, snowboarding and the mountains, twice a week. Real stories from real creators, credited and linked.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 00:00:00 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 00:00:00 -0000</lastBuildDate>
+    <item>
+      <title>TCR | October 23, 2026 — Nikolai Schirmer Skis the Gnarliest Line of His Career, Sölden Opens Sunday, and Valle Nevado Hits 719cm</title>
+      <link>https://theconditionsreport.github.io/2026/10/23/</link>
+      <guid isPermaLink="true">https://theconditionsreport.github.io/2026/10/23/</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 -0000</pubDate>
+      <description>Schirmer and Wester link up in Lyngen, World Cup racing returns, and the Andes won't quit.</description>
+    </item>
     <item>
       <title>TCR | October 20, 2026 — Slavmatic Premieres Tonight, POWDER Unveils Its Cover, and Killington Plans a $280M Overhaul</title>
       <link>https://theconditionsreport.github.io/2026/10/20/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="true">https://theconditionsreport.github.io/2026/07/22/</guid>
       <pubDate>Wed, 22 Jul 2026 00:00:00 -0000</pubDate>
       <description>A British alpinist skis an abandoned line in Peru, Argentina braces for snow, and a bike goes backwards down a ski jump.</description>
-    </item>
-    <item>
-      <title>TCR | May 04, 2026 — Mali Noyes Skied 93 Lines in 47 Days and Made a Show About It</title>
-      <link>https://theconditionsreport.github.io/2026/05/04/</link>
-      <guid isPermaLink="true">https://theconditionsreport.github.io/2026/05/04/</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 -0000</pubDate>
-      <description>The Chuting Gallery series drops, SuperUnknown returns, and Banff goes full Jedi</description>
     </item>
   </channel>
 </rss>
