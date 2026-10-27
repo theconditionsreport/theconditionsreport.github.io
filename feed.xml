@@ -6,7 +6,14 @@
     <atom:link href="https://theconditionsreport.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>The best of skiing, snowboarding and the mountains, twice a week. Real stories from real creators, credited and linked.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 00:00:00 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 00:00:00 -0000</lastBuildDate>
+    <item>
+      <title>TCR | October 27, 2026 — Karl Fostvedt Takes IF3 Skier of the Year, Freddy Carrick-Smith Makes British History, and Colorado's First Avy of the Season</title>
+      <link>https://theconditionsreport.github.io/2026/10/27/</link>
+      <guid isPermaLink="true">https://theconditionsreport.github.io/2026/10/27/</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 -0000</pubDate>
+      <description>Fostvedt earns the crown, Carrick-Smith goes 12th in Sölden, and Mt. Bachelor gets its first coat</description>
+    </item>
     <item>
       <title>TCR | October 23, 2026 — Nikolai Schirmer Skis the Gnarliest Line of His Career, Sölden Opens Sunday, and Valle Nevado Hits 719cm</title>
       <link>https://theconditionsreport.github.io/2026/10/23/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="true">https://theconditionsreport.github.io/2026/07/23/</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 -0000</pubDate>
       <description>31cm overnight in the Andes, Ohau's fickle charm, and the future of outdoor gear</description>
-    </item>
-    <item>
-      <title>TCR | July 22, 2026 — Storm Cycle Incoming, First Descents Logged</title>
-      <link>https://theconditionsreport.github.io/2026/07/22/</link>
-      <guid isPermaLink="true">https://theconditionsreport.github.io/2026/07/22/</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 -0000</pubDate>
-      <description>A British alpinist skis an abandoned line in Peru, Argentina braces for snow, and a bike goes backwards down a ski jump.</description>
     </item>
   </channel>
 </rss>
