@@ -6,7 +6,14 @@
     <atom:link href="https://theconditionsreport.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>The best of skiing, snowboarding and the mountains, twice a week. Real stories from real creators, credited and linked.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 00:00:00 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 00:00:00 -0000</lastBuildDate>
+    <item>
+      <title>TCR | October 30, 2026 — A-Basin Opens Mid-Week, FWT Drops Its 20th Season Calendar, and Level 1's Stargazers Lights Up BC and Japan</title>
+      <link>https://theconditionsreport.github.io/2026/10/30/</link>
+      <guid isPermaLink="true">https://theconditionsreport.github.io/2026/10/30/</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 -0000</pubDate>
+      <description>A-Basin caught everyone off guard Wednesday. Plus: FWT's landmark 20th season, Snowboard Mag's Hot 100, and Mount Fuji finally gets snow.</description>
+    </item>
     <item>
       <title>TCR | October 27, 2026 — Karl Fostvedt Takes IF3 Skier of the Year, Freddy Carrick-Smith Makes British History, and Colorado's First Avy of the Season</title>
       <link>https://theconditionsreport.github.io/2026/10/27/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="true">https://theconditionsreport.github.io/2026/07/24/</guid>
       <pubDate>Fri, 24 Jul 2026 00:00:00 -0000</pubDate>
       <description>Record Andes snowfall brings floods and states of emergency. Plus: a bike down a ski jump.</description>
-    </item>
-    <item>
-      <title>TCR | July 23, 2026 — Argentina Wakes Up, Nick Russell Gets Philosophical</title>
-      <link>https://theconditionsreport.github.io/2026/07/23/</link>
-      <guid isPermaLink="true">https://theconditionsreport.github.io/2026/07/23/</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 -0000</pubDate>
-      <description>31cm overnight in the Andes, Ohau's fickle charm, and the future of outdoor gear</description>
     </item>
   </channel>
 </rss>
