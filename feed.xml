@@ -6,7 +6,14 @@
     <atom:link href="https://theconditionsreport.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>The best of skiing, snowboarding and the mountains, twice a week. Real stories from real creators, credited and linked.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 00:00:00 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 00:00:00 -0000</lastBuildDate>
+    <item>
+      <title>TCR | November 03, 2026 — Canada Jumps the Gun, Girl Winter Hits 50 Stops, and Korua Finds Surf Waves in the Japanese Mountains</title>
+      <link>https://theconditionsreport.github.io/2026/11/03/</link>
+      <guid isPermaLink="true">https://theconditionsreport.github.io/2026/11/03/</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 -0000</pubDate>
+      <description>Lake Louise opened early, Girl Winter is rolling, and Korua's new film is pure Japan magic</description>
+    </item>
     <item>
       <title>TCR | October 30, 2026 — A-Basin Opens Mid-Week, FWT Drops Its 20th Season Calendar, and Level 1's Stargazers Lights Up BC and Japan</title>
       <link>https://theconditionsreport.github.io/2026/10/30/</link>
@@ -209,13 +216,6 @@
       <guid isPermaLink="true">https://theconditionsreport.github.io/2026/07/28/</guid>
       <pubDate>Tue, 28 Jul 2026 00:00:00 -0000</pubDate>
       <description>Film season tickets are live, a NY ski hill is blasting trails wider, and the Andes keep stacking.</description>
-    </item>
-    <item>
-      <title>TCR | July 24, 2026 — Chile's Dream Storm Turned Nightmare</title>
-      <link>https://theconditionsreport.github.io/2026/07/24/</link>
-      <guid isPermaLink="true">https://theconditionsreport.github.io/2026/07/24/</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 -0000</pubDate>
-      <description>Record Andes snowfall brings floods and states of emergency. Plus: a bike down a ski jump.</description>
     </item>
   </channel>
 </rss>
